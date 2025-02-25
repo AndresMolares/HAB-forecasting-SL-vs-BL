@@ -2,7 +2,7 @@
 
 ## Citation
 
-DOI: 
+DOI: https://doi.org/10.1016/j.compag.2025.110112
 
 ```tex
 @article{MOLARESULLOA2025110112,
